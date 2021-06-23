@@ -1,3 +1,5 @@
 {
-    "dbURI": "mongodb+srv://taylorsanders:justpeachy@taylorcluster.enmiu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "dbURI": "mongodb+srv://taylorsanders:justpeachy@taylorcluster.enmiu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtsecret": "your jwt secret",
+    "StripeAPIKey": "sk_test_51J5LDEJvWWZLzYeMC7AyOjTUJ5bf4OqHuFrqBVve50WyspiyC7o9DUABuDJ632iLq19cDNJjhn33XOvMUe2anS7g00OA8zmxg8"
 }
